@@ -10,12 +10,10 @@ Let's get started!
 
 ## Exercises
 
-*   **Module 18 Exercise: Exploring and Using CDNs**
-    *   (`18exercise.md`)](18exercise.md)
+*   **[Module 18 Exercise](): Exploring and Using CDNs**
     *   **What you'll do:** First, you'll see how a major site like CNN uses Content Delivery Networks (CDNs) to deliver content blazing fast. Then, you'll deploy your *own* simple webpage to a global CDN in minutes using Surge.sh which will make the ideas of performance and scalability real.
 
-*   **Module 19 Exercise: Exploring LLM Behavior with a Playground**
-    *   (`19exercise.md`)](19exercise.md)
-    *   **What you'll do:** Get hands-on with LLMs! Using an AI playground ([https://chat.naida.ai/](https://chat.naida.ai/)), you'll experiment with Google's Gemini models. You'll learn how to give an AI a personality using System Prompts, control its creativity with Temperature, and see how different models tackle creative tasks. It's a fun way to understand prompting and LLM tuning.
+*   **[Module 19 Exercise](): Exploring LLM Behavior with a Playground**
+    *   **What you'll do:** Get hands-on with LLMs! Using an AI playground, you'll experiment with Google's Gemini models. You'll learn how to give an AI a personality using System Prompts, control its creativity with Temperature, and see how different models tackle creative tasks. It's a fun way to understand prompting and LLM tuning.
 
 Good luck, and have fun experimenting!
